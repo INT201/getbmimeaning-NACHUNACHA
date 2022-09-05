@@ -19,6 +19,3 @@ function getBMIMeaning(weight, height) {
 module.exports = getBMIMeaning
 
 
-console.log(getBMIMeaning(65, 1.8))
-console.log(getBMIMeaning(80, 1.7))
-console.log(getBMIMeaning(44, 1.6))
